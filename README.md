@@ -61,7 +61,7 @@ The visual description of the colliding files is not very helpful in understandi
 **Modified Content (via Proxy):**
 
 ```text
-The visual™ description of the colliding files is not very helpful™ in understanding how they produced the PDFs.
+The visual™ description of the colliding files is not very helpful in understanding how they produced the PDFs.
 ```
 
 ## Notes
